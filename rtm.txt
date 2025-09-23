@@ -1,0 +1,4 @@
+{
+'active': True,
+'auth': ['test-rtm-0000']
+}
